@@ -1,0 +1,398 @@
+﻿Input sentence: Who?
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Smile.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Attack!
+Decoded sentence: حملههه !!
+
+-
+Input sentence: Got it!
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I know.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Listen.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Really?
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Really?
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Why me?
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Be cool.
+Decoded sentence: می توانی این را بگیده ای؟
+
+-
+Input sentence: Be cool.
+Decoded sentence: می توانی این را بگیده ای؟
+
+-
+Input sentence: Be cool.
+Decoded sentence: می توانی این را بگیده ای؟
+
+-
+Input sentence: Come in.
+Decoded sentence: می توانم این را به دار جاف می رفد.
+
+-
+Input sentence: Come on!
+Decoded sentence: می توانم این را به دار جاف می رفد.
+
+-
+Input sentence: Get out!
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Get out!
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Go away!
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Go away!
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Help me!
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Help me!
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Hold it!
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: See you.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: See you.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Shut up!
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: So long.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Take it.
+Decoded sentence: آیا تو به من بین کرید که او خواهی دارد؟
+
+-
+Input sentence: Tell me.
+Decoded sentence: این کتاب مال ما کسی در او خواسی داست؟
+
+-
+Input sentence: Welcome.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Grab him.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Hurry up.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Keep out!
+Decoded sentence: این کتاب مال ما کسی در او خواسی داست؟
+
+-
+Input sentence: Speak up!
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Terrific!
+Decoded sentence: این کتاب مال ما کسی در او خواسی داست؟
+
+-
+Input sentence: We agree.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: What for?
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Aim. Fire!
+Decoded sentence: این کتاب مال ما کسی در او خواسی داست؟
+
+-
+Input sentence: Birds fly.
+Decoded sentence: می توانی این را بگیده ای؟
+
+-
+Input sentence: Calm down.
+Decoded sentence: می توانم این را به دار جاف می رفد.
+
+-
+Input sentence: Excuse me.
+Decoded sentence: این کتاب مال ما کسی در او خواسی داست؟
+
+-
+Input sentence: Fantastic!
+Decoded sentence: آیا تو به کن با مایی کنی؟
+
+-
+Input sentence: How's Tom?
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I fainted.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I will go.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I'm needy.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I'm sorry.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: It's true.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Let it go.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Of course.
+Decoded sentence: این کتاب مال ما کسی در او خواسی داست؟
+
+-
+Input sentence: She cried.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: She tried.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: She walks.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Try again.
+Decoded sentence: این کتاب مال ما کسی در او خواسی داست؟
+
+-
+Input sentence: What's up?
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Who cares?
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Wonderful!
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Wonderful!
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: You tried.
+Decoded sentence: این کتاب مال ما کسی در او خواسی داست؟
+
+-
+Input sentence: Be careful.
+Decoded sentence: می توانی این را بگیده ای؟
+
+-
+Input sentence: Be careful.
+Decoded sentence: می توانی این را بگیده ای؟
+
+-
+Input sentence: Be careful.
+Decoded sentence: می توانی این را بگیده ای؟
+
+-
+Input sentence: Follow him.
+Decoded sentence: آنها در آن ماندن است؟
+
+-
+Input sentence: God exists.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I hear you.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I love you.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I need you.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I'm hungry!
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I'm so fat.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Oh, really?
+Decoded sentence: آیا تو به من بین کر در سخت خیریساست ندارد.
+
+-
+Input sentence: Once again.
+Decoded sentence: آیا تو به کن به من به این ما دگ را دارد.
+
+-
+Input sentence: She smiled.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Step aside.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Study hard.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Talk to me.
+Decoded sentence: آیا تو به من بین کر در سخت رسی سیگیه خیابه مان سادت.
+
+-
+Input sentence: Time flies.
+Decoded sentence: این کتاب مال ما کسی در او خواسی داست؟
+
+-
+Input sentence: Wood burns.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Don't shout.
+Decoded sentence: آیا تو به کن با مایی کنی؟
+
+-
+Input sentence: Don't worry.
+Decoded sentence: آیا تو به کن با مایی کنی؟
+
+-
+Input sentence: How are you?
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I forgot it.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I like cats.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I love cats.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I love cats.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: It's Monday.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Money talks.
+Decoded sentence: می توانم این را به در آنجام ماندا کردم.
+
+-
+Input sentence: Tom came by.
+Decoded sentence: تام می خواهد به من بروی.
+
+-
+Input sentence: Tom came by.
+Decoded sentence: تام می خواهد به من بروی.
+
+-
+Input sentence: Tom frowned.
+Decoded sentence: تام می خواهد که با ما بروی؟
+
+-
+Input sentence: We are late.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Work slowly.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Are you busy?
+Decoded sentence: این کتاب مال ما کسی در او خواسی داست؟
+
+-
+Input sentence: Come with me.
+Decoded sentence: می توانی این را بگیده ای؟
+
+-
+Input sentence: Drive slowly.
+Decoded sentence: آیا تو با کمی تنم ازنده اد؟
+
+-
+Input sentence: I am a widow.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I have to go.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I understand.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: I'm so happy.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: It's my book.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: It's snowing.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Ladies first.
+Decoded sentence: من به تام نکاردم.
+
+-
+Input sentence: Let go of it.
+Decoded sentence: من به تام نکاردم.

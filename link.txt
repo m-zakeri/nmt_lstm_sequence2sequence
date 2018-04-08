@@ -1,0 +1,11 @@
+usfule books:
+Deep Learning with Python
+
+
+usfule links:
+https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+
+https://stackoverflow.com/questions/111234/what-is-a-callable-in-python
+https://www.programiz.com/python-programming/methods/built-in/callable
+
+http://academictorrents.com/
